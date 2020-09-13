@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "de.ruf2.wealthr",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "wealthr",
+    "packageName": "de.ruf2.wealthr",
+    "packageFolder": "de/ruf2/wealthr",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZTYwN2FkMGUzNzVhZDI1OGFmZDY1NDJiNjI3M2JiNDU0MzgyM2JkOTkwYzYyYWFmNDliNjJkZDRlYzY3ZTlkYmU4NDdkZTllNjE2YTkzOGM1ZWUzN2FlYzk3Y2YxNGRiZjhkMDU1ZDlkN2E4NzFiOTUwM2RkOTc3ZDdhMjdjNjA=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1600016748729,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
